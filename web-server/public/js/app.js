@@ -19,6 +19,4 @@ weatherForm.addEventListener('click', (e) => {
             }
         })
     })
-
-    console.log(location)
 })
